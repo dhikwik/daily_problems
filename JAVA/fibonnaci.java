@@ -1,7 +1,6 @@
 package JAVA;
 import java.util.*;
 
-
 class FibonacciNumber{
     public static void main(String[] args) {
         int first=0;
