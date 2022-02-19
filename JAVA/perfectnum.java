@@ -8,7 +8,7 @@ public class perfectnum {
         int num = sc.nextInt();
         if(num>0){
 
-            for(int i=1; i<num; i++){
+            for(int i=16; i<num; i++){
                 if(num%i==0){
                     sum=sum+i;
                 }
