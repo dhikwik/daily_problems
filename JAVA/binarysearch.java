@@ -21,7 +21,7 @@ public class binarysearch {
         
         while(low<=high){
             mid=(low+high)/2;
-            if(arr[mid]==mid){
+            if(arr[mid]==num){
                 System.out.println("value at index"+mid);
                 break;
             }

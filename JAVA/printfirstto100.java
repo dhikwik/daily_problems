@@ -1,5 +1,5 @@
 package JAVA;
-import java.lang.*;
+
 public class printfirstto100 {
     public static void printNum(int num){
         if(num<=100)
