@@ -1,7 +1,9 @@
 package JAVA;
 // remove duplicate of sorted array
 
-// can also use arr instead of arr
+// can also use arr instead of temp
+
+//for unsorted arr use Arrays.sort() to sort
 public class removeDuplicate {
     public static void main(String[] args){
         
